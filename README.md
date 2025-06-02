@@ -85,8 +85,7 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
-![](img/msqueue.png)
-
+![](https://github.com/Mageshofficial2007/Linux-IPC-Message-Queues/raw/main/img/msqueue.png)
 
 
 # RESULT:
